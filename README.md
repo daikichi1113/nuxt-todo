@@ -1,3 +1,6 @@
+# 概要
+nuxt.jsの勉強のために作成した簡易Todoアプリ
+
 # nuxt-todo
 
 > My stylish Nuxt.js project
